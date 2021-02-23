@@ -1,4 +1,4 @@
-![Screenshot](media\logo.png)
+![Screenshot](media/logo.png)
 
 ### go deploy - AWS Content Developer Technical Assessment
 
@@ -8,6 +8,6 @@ To give an example, many labs for an AWS SysOps course include using EC2 instanc
 
 This is a simple scenario, we could deploy far more complex scenarios, however, for this technical assessment, you are required to create a new user called **User1**, a **Cloud Formation Template** to deploy the resources below and an **IAM Policy** to restrict the student/user from doing anything other than Create/Manage/View EC2 instances and VPCs.
 
-<span style="display:block;text-align:center">![Screenshot](media\diagram.png)
+<span style="display:block;text-align:center">![Screenshot](media/diagram.png)
 
 Once you have completed the task please email your interviewer.  The work will then be assessed and feedback given within 24 hours.
