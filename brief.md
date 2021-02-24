@@ -11,3 +11,8 @@ This is a simple scenario, we could deploy far more complex scenarios, however, 
 <span style="display:block;text-align:center">![Screenshot](media/diagram.png)
 
 Once you have completed the task please email your interviewer.  The work will then be assessed and feedback given within 24 hours.
+
+**Additional Notes**
+
+1.  Pick any _reasonable_ size VM
+1.  Use the VPC and subnet IP Range from the diagram above
